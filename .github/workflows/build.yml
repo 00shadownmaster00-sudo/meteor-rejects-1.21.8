@@ -31,4 +31,3 @@ jobs:
         with:
           name: meteor-jar
           path: build/libs/*.jar
-Add GitHub Actions workflow to build JAR
